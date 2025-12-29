@@ -1,5 +1,5 @@
 import unittest
-from password_generator import generate_password, letters, numbers, symbols
+from main import generate_password, letters, numbers, symbols
 
 class TestPyPasswordGenerator(unittest.TestCase):
 
