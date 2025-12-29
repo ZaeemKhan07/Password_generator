@@ -49,3 +49,4 @@ if __name__ == "__main__":
     # Generate and print
     final_password = generate_password(nr_letters, nr_symbols, nr_numbers)
     print(final_password)
+
